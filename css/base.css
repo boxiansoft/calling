@@ -1,0 +1,273 @@
+HTML {
+	FONT-SIZE: 100%; MARGIN-BOTTOM: 1px; HEIGHT: 100%
+}
+IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#page_footer {
+	MARGIN: 0px auto; WIDTH: 970px
+}
+#page {
+	BACKGROUND: #fff; MARGIN: 0px auto; WIDTH: 100%
+}
+#page_bk {
+	MARGIN: 0px auto; WIDTH: 950px
+}
+#content {
+	CLEAR: both; BACKGROUND: url(bg_page_top.png) no-repeat; WIDTH: 100%
+}
+#artical {
+	FONT-SIZE: 100%
+}
+
+#wenhua{ width:700px; float:left;}
+#wenhualeft{ width:300px; float:left;}
+#wenhuaright{ width:400px; float:right;}
+
+
+#g_head {
+	BACKGROUND: url(bkg_halloween.jpg) no-repeat left top; HEIGHT: 80px
+}
+#head {
+	BACKGROUND: url(bkg_halloween.jpg) no-repeat left top; HEIGHT: 80px
+}
+#top_menu {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 5px; FONT: 100% Arial; COLOR: #dcdcdc; PADDING-TOP: 10px
+}
+#top_menu A {
+	COLOR: #778899; TEXT-DECORATION: none
+}
+#top_menu .lan_in {
+	FONT-WEIGHT: bold; COLOR: black
+}
+#g_logo {
+	PADDING-RIGHT: 10px; MARGIN-TOP: 7px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 5px
+}
+#logo {
+	PADDING-RIGHT: 10px; MARGIN-TOP: 7px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 5px
+}
+#lang {
+	CLEAR: right; MARGIN-TOP: 10px; FLOAT: right
+}
+#lang {
+	CURSOR: default; COLOR: black
+}
+#lang A {
+	COLOR: #999; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+#lang A:hover {
+	TEXT-DECORATION: underline
+}
+#mainPic {
+	CLEAR: both; MARGIN: 0px auto; WIDTH: 100%
+}
+#mainMenu {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(bar_noblackbar_gray.jpg) no-repeat; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 0px; HEIGHT: 35px
+}
+#mainMenu LI {
+	DISPLAY: block; FLOAT: left; WIDTH: 16.5%; TEXT-ALIGN: center
+}
+#mainMenu LI A {
+	DISPLAY: block; FONT: bold 12px/35px Arial; COLOR: white; HEIGHT: 35px; TEXT-DECORATION: none
+}
+#mainMenu A:hover {
+	COLOR: #000; TEXT-DECORATION: none
+}
+#location {
+	CLEAR: both; PADDING-RIGHT: 20px; PADDING-LEFT: 20px; PADDING-BOTTOM: 5px; FONT: 12px Segoe UI,"Lucida Grande",Arial,sans-serif; COLOR: #666; PADDING-TOP: 5px; TEXT-ALIGN: left
+}
+#location A {
+	COLOR: #708090
+}
+#location A:hover {
+	TEXT-DECORATION: underline
+}
+.search {
+	CLEAR: right; FLOAT: left; WIDTH: 480px
+}
+#search_top {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 38; PADDING-BOTTOM: 3px; WIDTH: 950px; COLOR: #666; PADDING-TOP: 3px; FONT-FAMILY: 'Trebuchet MS', Trebuchet, Arial; POSITION: absolute; TEXT-ALIGN: right
+}
+#search {
+	CLEAR: right; BACKGROUND: url(../images/bg_searchbar.gif) no-repeat left top; FLOAT: right; WIDTH: 220px; HEIGHT: 22px; TEXT-ALIGN: left
+}
+#search INPUT {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 130px; COLOR: #999; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#search LABEL {
+	MARGIN-LEFT: 20px
+}
+#search A {
+	FONT: 100%/200% Arial; COLOR: #999; TEXT-DECORATION: none
+}
+#g_search {
+	CLEAR: right; BACKGROUND: url(bg_searchbar_1.gif) no-repeat left top; FLOAT: right; MARGIN: 7px 0px 10px; WIDTH: 451px; POSITION: relative; HEIGHT: 32px; TEXT-ALIGN: left
+}
+#search INPUT {
+	
+}
+#g_search .index_searchbar {
+	BORDER-RIGHT: #d0d0d0 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #d0d0d0 1px solid; PADDING-LEFT: 2px; BACKGROUND: #ffffff; LEFT: 7px; PADDING-BOTTOM: 2px; BORDER-LEFT: #d0d0d0 1px solid; WIDTH: 200px; COLOR: #999; PADDING-TOP: 2px; BORDER-BOTTOM: #d0d0d0 1px solid; POSITION: absolute; TOP: 5px; HEIGHT: 17px
+}
+#g_search .btn_psearch {
+	LEFT: 220px; POSITION: absolute; TOP: 5px
+}
+#g_search .btn_ftsearch {
+	LEFT: 330px; POSITION: absolute; TOP: 5px
+}
+#search_top {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 38; PADDING-BOTTOM: 3px; WIDTH: 950px; COLOR: #666; PADDING-TOP: 3px; FONT-FAMILY: 'Trebuchet MS', Trebuchet, Arial; POSITION: absolute; TEXT-ALIGN: right
+}
+#search_top SPAN {
+	FONT-WEIGHT: bold
+}
+#search_top INPUT {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 100%; FLOAT: none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#search_top P {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 100%; FLOAT: none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#search_top .ipt_1 {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BACKGROUND: #ddd; FONT: 13px Segoe UI,"Lucida Grande",Arial,sans-serif; BORDER-LEFT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid
+}
+#search_top .gray_btn {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#menu_ft {
+	CLEAR: both; BACKGROUND: url(bg_maincontent.jpg) no-repeat 50% 0px; FONT: 12px Arial; PADDING-TOP: 25px; POSITION: relative; TEXT-ALIGN: center
+}
+#menu_ft UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#menu_ft LI {
+	PADDING-RIGHT: 10px; DISPLAY: inline; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; COLOR: #a9a9a9; LINE-HEIGHT: 200%; PADDING-TOP: 0px
+}
+#menu_ft LI A {
+	COLOR: #a9a9a9; TEXT-DECORATION: none
+}
+#footer {
+	FONT: 12px/200% Arial; COLOR: #c0c0c0; TEXT-ALIGN: center
+}
+#footer SPAN {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#footer A {
+	COLOR: #a9a9a9; TEXT-DECORATION: none
+}
+#menu_ft LI A:hover {
+	TEXT-DECORATION: underline
+}
+#footer A:hover {
+	TEXT-DECORATION: underline
+}
+#demos {
+	DISPLAY: block; WIDTH: 144px; POSITION: relative; HEIGHT: 99px
+}
+#nav {
+	MARGIN-TOP: 80px; DISPLAY: block; Z-INDEX: 15; FILTER: alpha(opacity=50); MARGIN-LEFT: 0px; LIST-STYLE-TYPE: none; POSITION: absolute; opacity: .50
+}
+#nav LI IMG {
+	
+}
+#nav A {
+	DISPLAY: block; BACKGROUND: url(../images/icon_circle.png) no-repeat 50% 50%; WIDTH: 20px; HEIGHT: 20px; TEXT-DECORATION: none
+}
+#nav A:hover {
+	BACKGROUND: url(../images/icon_circle_hover.png) no-repeat 50% 50%
+}
+#nav A.activeSlide {
+	BACKGROUND: url(../images/icon_circle_hover.png) no-repeat 50% 50%
+}
+#nav A:unknown {
+	outline: none
+}
+#nav LI {
+	DISPLAY: block; FLOAT: left; WIDTH: 20px; HEIGHT: 20px; TEXT-ALIGN: center
+}
+#nav IMG {
+	DISPLAY: block; VERTICAL-ALIGN: middle; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.an_block {
+	WIDTH: 100%
+}
+#news_random {
+	OVERFLOW: hidden; WIDTH: 100%; HEIGHT: 40px
+}
+#news_random H2 {
+	CLEAR: both; PADDING-RIGHT: 10px; DISPLAY: block; PADDING-LEFT: 40px; FLOAT: left; PADDING-BOTTOM: 15px; MARGIN: 0px; FONT: bold 12px Arial; WIDTH: 120px; PADDING-TOP: 15px
+}
+.an_block H2 {
+	CLEAR: both; PADDING-RIGHT: 10px; DISPLAY: block; PADDING-LEFT: 40px; FLOAT: left; PADDING-BOTTOM: 15px; MARGIN: 0px; FONT: bold 12px Arial; WIDTH: 120px; PADDING-TOP: 15px
+}
+.an_block H2 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 40px; PADDING-BOTTOM: 0px; PADDING-TOP: 15px
+}
+.news_art {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; WIDTH: 770px; COLOR: #888; PADDING-TOP: 15px
+}
+.an_art {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; WIDTH: 770px; COLOR: #888; PADDING-TOP: 15px
+}
+.an_art {
+	
+}
+.news_art A {
+	COLOR: #888; TEXT-DECORATION: none
+}
+.news_art A:visited {
+	COLOR: #888; TEXT-DECORATION: none
+}
+.news_art A:hover {
+	COLOR: #888; TEXT-DECORATION: none
+}
+#maincontent {
+	CLEAR: both; FONT: 100%/150% Arial; COLOR: #868a8d
+}
+#event {
+	FLOAT: left; WIDTH: 180px
+}
+#maincontent H5 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: bold 12px Arial; COLOR: #015ca7; PADDING-TOP: 10px
+}
+#maincontent H5 A {
+	COLOR: #015ca7; TEXT-DECORATION: none
+}
+#maincontent H5 A:visited {
+	COLOR: #015ca7
+}
+#maincontent H5 A:hover {
+	COLOR: #015ca7; TEXT-DECORATION: underline
+}
+#maincontent P {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; MARGIN: 5px 0px 0px; COLOR: #818488; PADDING-TOP: 0px
+}
+#maincontent P A {
+	COLOR: #818488; TEXT-DECORATION: none
+}
+#maincontent P A:visited {
+	PADDING-RIGHT: 5px; MARGIN-TOP: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; COLOR: #818488; LINE-HEIGHT: 1.4em; PADDING-TOP: 3px; LETTER-SPACING: 0.05em; TEXT-DECORATION: none
+}
+#maincontent P A:hover {
+	COLOR: #818488; TEXT-DECORATION: underline
+}
+#maincontent IMG {
+	MARGIN: 5px 0px 0px
+}
+.spot {
+	FLOAT: left; WIDTH: 20%
+}
+.spot P {
+	TEXT-ALIGN: left
+}
+.clearfix:unknown {
+	CLEAR: both; DISPLAY: block; VISIBILITY: hidden; HEIGHT: 0px; content: "."
+}
+.clearfix {
+	CLEAR: both; positon: relative
+}
+.clearfix {
+	HEIGHT: 1%
+}
+.clearfix {
+	DISPLAY: block
+}

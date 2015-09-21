@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>图片上传</title>
+<style>
+body{font-size:14px;}
+</style>
+</head>
+
+<body>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td align="center">
+		<form action="control.php" method="post" enctype="multipart/form-data" name="form1" id="form1">
+			  <input type="file" name="filename" id="filename" size="40"/>
+			  <input type="submit" name="button" id="button" value="上传" />
+		</form>
+	</td>
+  </tr>
+  <tr>
+  	<td align="center">上传的图片大小不得超过1M.</td>
+  </tr>
+</table>
+</body>
+</html>

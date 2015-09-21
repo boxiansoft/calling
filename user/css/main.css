@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+body{ margin:0px; padding:0px; background-color:#B1CFF5; font-family:"宋体"; font-size:12px;}
+.main{width:100%;}
+.main1000{ width:1000px; }
+.main770{ width:770px;}
+.f_n{ float:none; margin: 0 auto;}
+ul{ padding:0; margin:0;}
+ul li{ list-style:none;}
+img {border:0px;}
+a {color:#333333;text-decoration:none;}
+a:hover {color:#fe7200;text-decoration:none;}
+.menu{ float:left;width:171px; padding-left:4px;}
+.leftmenulist{float:left;width:171px; width:171px; border:1px solid #5EA0E9; margin-top:5px;}
+.leftmenutext{float:left;width:171px; height:35px; background-image:url(../image/menu_bg.png); background-repeat:no-repeat;line-height: 35px;color: #333333;text-align:center;}
+.leftmenutext a {font-size: 14px;font-weight: bold;	color: #ffffff;}
+.leftmenutd div{ float:left;width:166px;text-align:center; margin-left:2px;line-height:32px;vertical-align:middle;border-bottom: 1px solid #004F98;}
+.leftmenutd div a{font-size:14px;color: #333333;text-decoration:none;}
+.titleName{width:200px;height:31px;background-image:url(images/bg_list.gif);color:#FFFFFF;font-size:18px;}
+a{ color:#333333; text-decoration:none;}
+.top_border{ float:left; width:775px; background-image:url(../image/main_top.png); height:31px;}
+.top_border span{ float:left; width:118px; text-align:center; padding-top:13px; padding-left:15px;}
+.middle_border{ float:left; width:773px; background-color:#FFFFFF; border-left:1px solid #77B5E6;border-right:1px solid #77B5E6;border-bottom:1px solid #77B5E6; padding-bottom:50px;}
+
+.top_border_today{float:left; width:775px; background-image:url(../image/main_top_service.png); height:31px;}
+.top_border_today span{ float:left; width:118px; text-align:center; padding-top:13px; padding-left:15px;}
+.top_border_today a{ color:#FF0000;}
+
+.regist_memo{ float:left; width:700px; padding-top:10px; padding-left:30px;}
+.regist_list{ float:left; width:630px; padding-top:10px;}
+.regist_list ul{ float:left; width:550px;}
+.regist_list ul li{ float:left; width:110px;}
+.list_title{ float:left; width:80px; text-align:justify;text-justify:inter-ideograph; padding-top:10px;}
+.list_input{ float:left; width:500px; padding-top:6px;}
+.input_txt{width:205px; height:23px; line-height:23px; vertical-align:middle; border:1px solid #CCCCCC;}
+.regist_button{ float:left; width:133px; padding-left:320px; padding-top:40px;}
+.regist_submit{ width:133px; height:40px; background-image:url(../image/regist.png); border:0px; cursor:hand; font-size:18px; font-weight:bold; color:#FFFFFF;}
+
+.today_update{ float:left; width:500px; padding-left:50px; padding-top:30px;}
+.user_service{ float:left; width:675px; padding-left:50px; padding-top:30px;}
+.coupon{ float:left; width:660px; padding-top:10px; padding-left:50px;}
+.coupon ul{ float:left; width:200px; padding-left:20px; border-bottom:1px solid #CCCCCC;}
+.coupon ul li{ float:left; padding-left:10px; line-height:30px; vertical-align:middle;}
+.couponList{ float:left; width:700px; padding-top:30px; padding-left:50px;}
+.couponTitle{ float:left; width:660px; height:34px; line-height:34px; vertical-align:middle; font-size:14px; font-weight:bold; color:#FFFFFF; background-image:url(../image/coupon_bg.png);}
+.couponTitle span{ float:left; padding-left:10px;}
+.couponList ul{ float:left; }
+.couponList ul li{ float:left;  line-height:34px; vertical-align:middle; text-align:center;}
+.couponBorder{ float:left; width:658px; border-bottom:1px solid #FEB024; border-left:1px solid #FEB024;border-right:1px solid #FEB024;}
+.popList{ float:left; width:520px; padding-left:30px;}
+.popList ul li{ float:left; line-height:30px; vertical-align:middle;}
+.popListLeft{ float:left; width:220px;}
+.popListLeft ul{ float:left; width:220px;}
+.popListRight{ float:left; width:300px;}
+.popListRight ul{ float:left; width:300px;}
+.popListTitle{ width:100px; text-align:right;}
+
+
+.page{  float:left; width:100%; text-align:center;color:#333333; padding-top:20px;}
+.page span{  padding:0px 10px; text-align:center;}
+.page a{color:#333333; text-decoration:none;}
+.page a:hover{ text-decoration:underline}
+
+
+
+
+
