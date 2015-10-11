@@ -23,8 +23,6 @@ include_once(BASE_PATH."\adodb\adodb.inc.php");
 $conn = ADONewConnection('mysql');
 //连接地址、数据库用户名、数据库密码、数据库名称
 $conn->PConnect('localhost','root','','callcenter') or die('连接错误');
-//$conn->PConnect('qdm-003.hichina.com','qdm0030386','chnyrt2013','qdm0030386_db') or die('连接错误');
-//$conn->PConnect('mysql.sql42.eznowdata.com','sq_ftdesign',' ftdesign2013','sq_ftdesign') or die('连接错误');
 $conn->execute('set names utf8');
 $ADODB_FETCH = ADODB_FETCH_ASSOC;//指定按哪一种模式输出（表字段名、字段序列号），这里是指定按照字段名
 
